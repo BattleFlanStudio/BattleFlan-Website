@@ -336,7 +336,15 @@ section{
 .asset-images{
     display: flex;
     flex-direction: row;
-    gap: 20px;
+    gap: 20px; 
+    width: 100%;
+    max-width: 1200px;
+}
+
+.asset-image{
+    width: 100%;
+    max-width: 350px;
+    height: auto;
 }
 
 /*==============================
