@@ -2,7 +2,7 @@
 
 }
 
-@media (max-width:900px){
+@media (width <= 48em){
 
     .hero{
         padding-top: 15rem;
